@@ -33,8 +33,8 @@
 ![240240710-94401dfd-524b-4862-9817-55c6a461ecd1](https://github.com/charumathiramesh/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/120204455/322a01c2-e5ab-4407-92f3-cfd1055cee77)
 
 
-### Name: CHARUMATHI R
-### Register Number: 212222240021
+### Name: SANJAI S
+### Register Number: 23003393
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
